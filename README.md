@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 == README
 
-This is a web based app designed to manage account management tasks
+This is rails starter code for a webapp. It contains the models and controllers for basic login and comment functionality. Need to add views and obviously content before MVP.
 
